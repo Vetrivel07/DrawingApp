@@ -1,4 +1,4 @@
-# DrawingApp
+# DrawingApp 🎨🖌️
 
 
 Welcome to the Simple Drawing App project! This beginner-friendly project will help you create a basic drawing application using HTML, CSS, and JavaScript. With this website, users can draw and express their creativity. Let's get started!
